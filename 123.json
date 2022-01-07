@@ -1,0 +1,12 @@
+{
+
+    "TOKEN":"YourDiscordBotTOKEN",
+    "url_pic":["大吉",
+                  "中吉",
+                  "小吉",
+                  "大凶",
+                  "中兇",
+                  "小兇"
+                    ]
+      
+  }
